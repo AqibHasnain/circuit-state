@@ -1,0 +1,7 @@
+# Columns:
+#  (1) Sigma Factor name
+#  (2) Gene regulated by the Sigma Factor (regulated gene)
+#  (3) Regulatory effect of the TF on the regulated gene (+ activator, - repressor, +- dual, ? unknown)
+#  (4) Evidence that supports the existence of the regulatory interaction
+#  (5) Evidence Type [Weak, Strong, Confirmed] For details see: http://regulondb.ccg.unam.mx/evidenceclassification
+#
