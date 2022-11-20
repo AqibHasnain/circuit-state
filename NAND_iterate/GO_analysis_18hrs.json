@@ -1,0 +1,296 @@
+{"overrepresentation": {
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Escherichia coli",
+        "list_name": "upload_1"
+    }},
+    "tool_release_date": 20221013,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.6799722 Released 2022-07-01",
+    "annotation_type": "GO biological process complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 14.837837837837837,
+                    "fdr": 0.04206626771232672,
+                    "expected": 0.40437158469945356,
+                    "pValue": 4.0267646182827115E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "cysI",
+                        "cysJ",
+                        "cysH",
+                        "cysC",
+                        "cysD",
+                        "cysN"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 6,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0070814",
+                    "label": "hydrogen sulfide biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 14.837837837837837,
+                    "fdr": 0.031549700784245044,
+                    "expected": 0.40437158469945356,
+                    "pValue": 4.0267646182827115E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "cysI",
+                        "cysJ",
+                        "cysH",
+                        "cysC",
+                        "cysD",
+                        "cysN"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 6,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0070813",
+                    "label": "hydrogen sulfide metabolic process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 11.128378378378379,
+                    "fdr": 0.046003192646572225,
+                    "expected": 0.5391621129326047,
+                    "pValue": 1.1742997484766363E-4,
+                    "mapped_id_list": {"mapped_id": [
+                        "iclR",
+                        "aceB",
+                        "aceA",
+                        "aceK",
+                        "icd",
+                        "acnB"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 8,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0006097",
+                    "label": "glyoxylate cycle"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 8,
+                    "fold_enrichment": 8.478764478764479,
+                    "fdr": 0.05281502375274877,
+                    "expected": 0.9435336976320583,
+                    "pValue": 3.370454610896539E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "iclR",
+                        "aceB",
+                        "aceA",
+                        "aceK",
+                        "hyi",
+                        "icd",
+                        "acnB",
+                        "glxR"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 14,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0046487",
+                    "label": "glyoxylate metabolic process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 15,
+                    "fold_enrichment": 7.674743709226468,
+                    "fdr": 9.66127093795043E-5,
+                    "expected": 1.9544626593806922,
+                    "pValue": 3.082728442230514E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "gltA",
+                        "aceK",
+                        "icd",
+                        "aspA",
+                        "aceB",
+                        "aceA",
+                        "sucC",
+                        "sucD",
+                        "sucA",
+                        "sucB",
+                        "sdhD",
+                        "sdhC",
+                        "acnB",
+                        "sdhB",
+                        "sdhA"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 29,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0006099",
+                    "label": "tricarboxylic acid cycle"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 15,
+                    "fold_enrichment": 3.7723316536875857,
+                    "fdr": 0.02704454197281348,
+                    "expected": 3.97632058287796,
+                    "pValue": 4.3147003785599044E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "gltA",
+                        "aceK",
+                        "icd",
+                        "aspA",
+                        "aceB",
+                        "aceA",
+                        "sucC",
+                        "sucD",
+                        "sucA",
+                        "sucB",
+                        "sdhD",
+                        "sdhC",
+                        "acnB",
+                        "sdhB",
+                        "sdhA"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 59,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0009060",
+                    "label": "aerobic respiration"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 30,
+                    "fold_enrichment": 2.248157248157248,
+                    "fdr": 0.04999999954254708,
+                    "expected": 13.344262295081968,
+                    "pValue": 1.1167836528328959E-4,
+                    "mapped_id_list": {"mapped_id": [
+                        "ilvD",
+                        "cysK",
+                        "cysI",
+                        "leuL",
+                        "cysJ",
+                        "ilvE",
+                        "puuA",
+                        "gadA",
+                        "ilvL",
+                        "gadB",
+                        "ilvM",
+                        "serA",
+                        "leuA",
+                        "sucB",
+                        "tdcA",
+                        "sdhD",
+                        "cysM",
+                        "yjiR",
+                        "nadA",
+                        "yhaO",
+                        "asnB",
+                        "astC",
+                        "aspA",
+                        "ybaO",
+                        "thrB",
+                        "thrC",
+                        "patD",
+                        "thrA",
+                        "thrL",
+                        "dapD"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 198,
+                "term": {
+                    "level": 0,
+                    "id": "GO:1901605",
+                    "label": "alpha-amino acid metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 36,
+                    "fold_enrichment": 2.0544698544698545,
+                    "fdr": 0.052485202323417045,
+                    "expected": 17.522768670309652,
+                    "pValue": 1.0048219972575056E-4,
+                    "mapped_id_list": {"mapped_id": [
+                        "ilvD",
+                        "cysK",
+                        "cysI",
+                        "leuL",
+                        "cysJ",
+                        "ilvE",
+                        "aroG",
+                        "puuA",
+                        "gadA",
+                        "ilvL",
+                        "gadB",
+                        "aroD",
+                        "ilvM",
+                        "frlA",
+                        "serA",
+                        "leuA",
+                        "sucB",
+                        "tdcA",
+                        "sdhD",
+                        "metG",
+                        "cysM",
+                        "yjiR",
+                        "nadA",
+                        "aldA",
+                        "yhaO",
+                        "asnB",
+                        "astC",
+                        "glyQ",
+                        "aspA",
+                        "ybaO",
+                        "thrB",
+                        "thrC",
+                        "patD",
+                        "thrA",
+                        "thrL",
+                        "dapD"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 260,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0006520",
+                    "label": "cellular amino acid metabolic process"
+                }
+            }
+        ]}
+    ]
+}}
