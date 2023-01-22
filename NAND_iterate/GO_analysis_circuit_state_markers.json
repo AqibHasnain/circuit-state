@@ -13,141 +13,11 @@
         {"result": [
             {
                 "input_list": {
-                    "number_in_list": 6,
-                    "fold_enrichment": 95.47826086956522,
-                    "fdr": 2.447947426847067E-6,
-                    "expected": 0.06284153005464481,
-                    "pValue": 7.810936269454585E-10,
-                    "mapped_id_list": {"mapped_id": [
-                        "cysI",
-                        "cysJ",
-                        "cysH",
-                        "cysC",
-                        "cysD",
-                        "cysN"
-                    ]},
-                    "list_name": "upload_1",
-                    "plus_minus": "+"
-                },
-                "number_in_reference": 6,
-                "term": {
-                    "level": 0,
-                    "id": "GO:0070814",
-                    "label": "hydrogen sulfide biosynthetic process"
-                }
-            },
-            {
-                "input_list": {
-                    "number_in_list": 6,
-                    "fold_enrichment": 95.47826086956522,
-                    "fdr": 1.2239737134235335E-6,
-                    "expected": 0.06284153005464481,
-                    "pValue": 7.810936269454585E-10,
-                    "mapped_id_list": {"mapped_id": [
-                        "cysI",
-                        "cysJ",
-                        "cysH",
-                        "cysC",
-                        "cysD",
-                        "cysN"
-                    ]},
-                    "list_name": "upload_1",
-                    "plus_minus": "+"
-                },
-                "number_in_reference": 6,
-                "term": {
-                    "level": 1,
-                    "id": "GO:0070813",
-                    "label": "hydrogen sulfide metabolic process"
-                }
-            },
-            {
-                "input_list": {
-                    "number_in_list": 8,
-                    "fold_enrichment": 5.830733488217723,
-                    "fdr": 0.015083208962484862,
-                    "expected": 1.372040072859745,
-                    "pValue": 7.219149152433725E-5,
-                    "mapped_id_list": {"mapped_id": [
-                        "cysK",
-                        "cysI",
-                        "cysJ",
-                        "cysH",
-                        "cysC",
-                        "cysD",
-                        "cysP",
-                        "cysN"
-                    ]},
-                    "list_name": "upload_1",
-                    "plus_minus": "+"
-                },
-                "number_in_reference": 131,
-                "term": {
-                    "level": 2,
-                    "id": "GO:0006790",
-                    "label": "sulfur compound metabolic process"
-                }
-            },
-            {
-                "input_list": {
-                    "number_in_list": 7,
-                    "fold_enrichment": 10.126482213438734,
-                    "fdr": 0.0030593243560488592,
-                    "expected": 0.6912568306010929,
-                    "pValue": 7.809379338988792E-6,
-                    "mapped_id_list": {"mapped_id": [
-                        "cysK",
-                        "cysI",
-                        "cysJ",
-                        "cysH",
-                        "cysC",
-                        "cysD",
-                        "cysN"
-                    ]},
-                    "list_name": "upload_1",
-                    "plus_minus": "+"
-                },
-                "number_in_reference": 66,
-                "term": {
-                    "level": 1,
-                    "id": "GO:0044272",
-                    "label": "sulfur compound biosynthetic process"
-                }
-            }
-        ]},
-        {"result": {
-            "input_list": {
-                "number_in_list": 6,
-                "fold_enrichment": 63.65217391304348,
-                "fdr": 4.318096219955878E-6,
-                "expected": 0.09426229508196722,
-                "pValue": 4.13346798336555E-9,
-                "mapped_id_list": {"mapped_id": [
-                    "cysI",
-                    "cysJ",
-                    "cysH",
-                    "cysC",
-                    "cysD",
-                    "cysN"
-                ]},
-                "list_name": "upload_1",
-                "plus_minus": "+"
-            },
-            "number_in_reference": 9,
-            "term": {
-                "level": 0,
-                "id": "GO:0000103",
-                "label": "sulfate assimilation"
-            }
-        }},
-        {"result": [
-            {
-                "input_list": {
                     "number_in_list": 4,
-                    "fold_enrichment": 54.55900621118012,
-                    "fdr": 0.0019826998109972985,
-                    "expected": 0.07331511839708561,
-                    "pValue": 3.1632096537927545E-6,
+                    "fold_enrichment": 76.05194805194805,
+                    "fdr": 0.0012784154190993045,
+                    "expected": 0.05259562841530055,
+                    "pValue": 8.158362597953443E-7,
                     "mapped_id_list": {"mapped_id": [
                         "cysW",
                         "cysU",
@@ -167,10 +37,10 @@
             {
                 "input_list": {
                     "number_in_list": 5,
-                    "fold_enrichment": 20.756143667296783,
-                    "fdr": 0.0027431354905981895,
-                    "expected": 0.24089253187613846,
-                    "pValue": 7.87754288940131E-6,
+                    "fold_enrichment": 28.932806324110672,
+                    "fdr": 0.0015293568293960327,
+                    "expected": 0.17281420765027322,
+                    "pValue": 1.4639663331806313E-6,
                     "mapped_id_list": {"mapped_id": [
                         "cysW",
                         "narU",
@@ -191,10 +61,10 @@
             {
                 "input_list": {
                     "number_in_list": 5,
-                    "fold_enrichment": 13.26086956521739,
-                    "fdr": 0.014187922607509102,
-                    "expected": 0.3770491803278689,
-                    "pValue": 5.432516633379363E-5,
+                    "fold_enrichment": 18.484848484848484,
+                    "fdr": 0.008163951440470045,
+                    "expected": 0.27049180327868855,
+                    "pValue": 1.0419848679604396E-5,
                     "mapped_id_list": {"mapped_id": [
                         "cysW",
                         "narU",
@@ -214,11 +84,11 @@
             },
             {
                 "input_list": {
-                    "number_in_list": 8,
-                    "fold_enrichment": 5.9211324570273005,
-                    "fdr": 0.014571670446963577,
-                    "expected": 1.3510928961748634,
-                    "pValue": 6.509361399409384E-5,
+                    "number_in_list": 7,
+                    "fold_enrichment": 7.221987315010571,
+                    "fdr": 0.016920279090620508,
+                    "expected": 0.9692622950819673,
+                    "pValue": 4.859046324683617E-5,
                     "mapped_id_list": {"mapped_id": [
                         "cysW",
                         "narU",
@@ -226,8 +96,7 @@
                         "znuB",
                         "cysA",
                         "znuC",
-                        "cysP",
-                        "dtpA"
+                        "cysP"
                     ]},
                     "list_name": "upload_1",
                     "plus_minus": "+"
@@ -242,10 +111,10 @@
             {
                 "input_list": {
                     "number_in_list": 4,
-                    "fold_enrichment": 54.55900621118012,
-                    "fdr": 0.002478374763746623,
-                    "expected": 0.07331511839708561,
-                    "pValue": 3.1632096537927545E-6,
+                    "fold_enrichment": 76.05194805194805,
+                    "fdr": 0.002556830838198609,
+                    "expected": 0.05259562841530055,
+                    "pValue": 8.158362597953443E-7,
                     "mapped_id_list": {"mapped_id": [
                         "cysW",
                         "cysU",
@@ -266,10 +135,10 @@
         {"result": {
             "input_list": {
                 "number_in_list": 3,
-                "fold_enrichment": 31.82608695652174,
-                "fdr": 0.04207902683528995,
-                "expected": 0.09426229508196722,
-                "pValue": 2.1482591875068258E-4,
+                "fold_enrichment": 44.36363636363636,
+                "fdr": 0.024898669543910786,
+                "expected": 0.06762295081967214,
+                "pValue": 7.944693536665854E-5,
                 "mapped_id_list": {"mapped_id": [
                     "znuB",
                     "znuA",
@@ -288,13 +157,12 @@
         {"result": [
             {
                 "input_list": {
-                    "number_in_list": 5,
-                    "fold_enrichment": 23.8695652173913,
-                    "fdr": 0.0022765996453439174,
-                    "expected": 0.20947176684881605,
-                    "pValue": 4.358518784959638E-6,
+                    "number_in_list": 4,
+                    "fold_enrichment": 26.618181818181817,
+                    "fdr": 0.015377847148950047,
+                    "expected": 0.15027322404371585,
+                    "pValue": 2.453389781261973E-5,
                     "mapped_id_list": {"mapped_id": [
-                        "narV",
                         "narU",
                         "narZ",
                         "narY",
@@ -312,13 +180,12 @@
             },
             {
                 "input_list": {
-                    "number_in_list": 5,
-                    "fold_enrichment": 23.8695652173913,
-                    "fdr": 0.0019513711245805008,
-                    "expected": 0.20947176684881605,
-                    "pValue": 4.358518784959638E-6,
+                    "number_in_list": 4,
+                    "fold_enrichment": 26.618181818181817,
+                    "fdr": 0.01281487262412504,
+                    "expected": 0.15027322404371585,
+                    "pValue": 2.453389781261973E-5,
                     "mapped_id_list": {"mapped_id": [
-                        "narV",
                         "narU",
                         "narZ",
                         "narY",
@@ -336,13 +203,12 @@
             },
             {
                 "input_list": {
-                    "number_in_list": 5,
-                    "fold_enrichment": 19.891304347826086,
-                    "fdr": 0.0026910779706288517,
-                    "expected": 0.25136612021857924,
-                    "pValue": 9.445391728435663E-6,
+                    "number_in_list": 4,
+                    "fold_enrichment": 22.18181818181818,
+                    "fdr": 0.018134120770903348,
+                    "expected": 0.18032786885245902,
+                    "pValue": 4.6290033875949835E-5,
                     "mapped_id_list": {"mapped_id": [
-                        "narV",
                         "narU",
                         "narZ",
                         "narY",
@@ -360,13 +226,12 @@
             },
             {
                 "input_list": {
-                    "number_in_list": 5,
-                    "fold_enrichment": 19.891304347826086,
-                    "fdr": 0.0029601857676917367,
-                    "expected": 0.25136612021857924,
-                    "pValue": 9.445391728435663E-6,
+                    "number_in_list": 4,
+                    "fold_enrichment": 22.18181818181818,
+                    "fdr": 0.02072470945246097,
+                    "expected": 0.18032786885245902,
+                    "pValue": 4.6290033875949835E-5,
                     "mapped_id_list": {"mapped_id": [
-                        "narV",
                         "narU",
                         "narZ",
                         "narY",
@@ -382,31 +247,6 @@
                     "label": "nitrogen cycle metabolic process"
                 }
             }
-        ]},
-        {"result": {
-            "input_list": {
-                "number_in_list": 6,
-                "fold_enrichment": 9.391304347826088,
-                "fdr": 0.013262501164967657,
-                "expected": 0.6388888888888888,
-                "pValue": 5.501356577682818E-5,
-                "mapped_id_list": {"mapped_id": [
-                    "hybB",
-                    "hybA",
-                    "narV",
-                    "narZ",
-                    "narY",
-                    "hybO"
-                ]},
-                "list_name": "upload_1",
-                "plus_minus": "+"
-            },
-            "number_in_reference": 61,
-            "term": {
-                "level": 0,
-                "id": "GO:0009061",
-                "label": "anaerobic respiration"
-            }
-        }}
+        ]}
     ]
 }}
